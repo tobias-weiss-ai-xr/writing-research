@@ -1,0 +1,443 @@
+# Writing Research Taxonomy & Discovery Config
+#
+# Focus: AI systems for automated writing, text generation,
+# writing assistance, and computational writing research
+#
+# Pipeline: config/taxonomy.yaml -> papers.yaml -> validate -> README -> reports
+# please edit below for your topic -------------------------------------------
+
+# --- Topic -----------------------------------------------------------
+topic:
+  name: "Writing Research"
+  short: "writing"
+  description: "AI systems for automated writing, text generation, writing assistance, and computational composition."
+  openalex_mailto: "tobias@tobias-weiss.org"
+
+# --- Taxonomy ----------------------------------------------------------
+# Categories = the main axis of your review
+# Subcategories = the secondary axis
+# Each paper must carry one category + one subcategory.
+taxonomy:
+  categories:
+    - id: large-language-models
+      display: "LLMs for Writing"
+      description: "Large language models applied to text generation, creative writing, and composition"
+
+    - id: generation
+      display: "Text Generation"
+      description: "Neural text generation, language modeling, and output quality"
+
+    - id: writing-assistants
+      display: "Writing Assistants"
+      description: "AI-powered writing tools, autocomplete, and interactive writing support"
+
+    - id: planning
+      display: "Writing Planning & Structure"
+      description: "Outline generation, story planning, discourse structure, and narrative arc"
+
+    - id: evaluation
+      display: "Evaluation & Quality"
+      description: "Metrics, benchmarks, and evaluation methods for generated text"
+
+    - id: human-ai
+      display: "Human-AI Collaboration"
+      description: "Human-in-the-loop writing, collaboration, and edit assistance"
+
+    - id: control
+      display: "Control & Personalization"
+      description: "Controlling style, tone, factuality, and persona in generated text"
+
+    - id: applications
+      display: "Writing Applications"
+      description: "Domain-specific writing tools (fiction, academic, business, code-as-text)"
+
+    - id: survey
+      display: "Surveys & Taxonomies"
+      description: "Comprehensive surveys and systematic reviews of writing research"
+
+  subcategories:
+    # LLMs for Writing
+    - id: llm-evaluation
+      category: large-language-models
+      display: "LLM Evaluation"
+      description: "Evaluating LLM writing quality, coherence, and fluency"
+
+    - id: prompt-engineering
+      category: large-language-models
+      display: "Prompt Engineering"
+      description: "Prompt design and optimization for writing tasks"
+
+    - id: few-shot
+      category: large-language-models
+      display: "Few-shot Learning"
+      description: "Few-shot and in-context learning for writing"
+
+    # Text Generation
+    - id: neural-generation
+      category: generation
+      display: "Neural Text Generation"
+      description: "Autoregressive and transformer-based text generation"
+
+    - id: controllable-generation
+      category: generation
+      display: "Controllable Generation"
+      description: "Controlling style, tone, and content in text generation"
+
+    - id: creative-writing
+      category: generation
+      display: "Creative Writing"
+      description: "AI for story generation, poetry, and creative composition"
+
+    - id: summarization
+      category: generation
+      display: "Summarization"
+      description: "Automatic text summarization and condensation"
+
+    - id: rewriting
+      category: generation
+      display: "Text Rewriting"
+      description: "Paraphrasing, style transfer, and text revision"
+
+    # Writing Assistants
+    - id: autocomplete
+      category: writing-assistants
+      display: "Autocomplete"
+      description: "Predictive text and autocompletion systems"
+
+    - id: grammar-checking
+      category: writing-assistants
+      display: "Grammar & Style Checking"
+      description: "Automated grammar, spelling, and style correction"
+
+    - id: interactive-assistant
+      category: writing-assistants
+      display: "Interactive Writing"
+      description: "Real-time interactive writing assistance and feedback"
+
+    # Writing Planning
+    - id: outline-generation
+      category: planning
+      display: "Outline & Planning"
+      description: "Automated outline creation and story planning"
+
+    - id: discourse-structuring
+      category: planning
+      display: "Discourse Structure"
+      description: "Coherence, cohesion, and discourse-level structure"
+
+    - id: narrative-arc
+      category: planning
+      display: "Narrative Arc"
+      description: "Story arc planning and character development"
+
+    # Human-AI Collaboration
+    - id: human-in-the-loop
+      category: human-ai
+      display: "Human-in-the-Loop"
+      description: "Collaborative writing between humans and AI systems"
+
+    - id: editing-assistance
+      category: human-ai
+      display: "Editing Assistance"
+      description: "AI tools for revision, feedback, and editing"
+
+    - id: co-creative
+      category: human-ai
+      display: "Co-creative Writing"
+      description: "Collaborative creative writing with AI partners"
+
+    # Control & Personalization
+    - id: style-transfer
+      category: control
+      display: "Style Transfer"
+      description: "Transferring writing style and tone between texts"
+
+    - id: persona-control
+      category: control
+      display: "Persona Control"
+      description: "Controlling character voice and persona in generated text"
+
+    - id: factuality
+      category: control
+      display: "Factuality Control"
+      description: "Ensuring factual accuracy and reducing hallucination"
+
+    # Evaluation
+    - id: nlp-metrics
+      category: evaluation
+      display: "NLP Metrics"
+      description: "BLEU, ROUGE, METEOR, and other NLG evaluation metrics"
+
+    - id: human-evaluation
+      category: evaluation
+      display: "Human Evaluation"
+      description: "Human judgments of text quality and coherence"
+
+    - id: benchmark-datasets
+      category: evaluation
+      display: "Benchmark Datasets"
+      description: "Standard datasets for writing and generation evaluation"
+
+    # Writing Applications
+    - id: academic-writing
+      category: applications
+      display: "Academic Writing"
+      description: "AI assistance for scholarly writing and research papers"
+
+    - id: business-writing
+      category: applications
+      display: "Business Writing"
+      description: "AI for reports, emails, proposals, and professional content"
+
+    - id: code-as-text
+      category: applications
+      display: "Code Generation"
+      description: "Treating code as a form of text generation"
+
+    - id: multimodal-writing
+      category: applications
+      display: "Multimodal Writing"
+      description: "Writing systems that incorporate images, audio, or video"
+
+# --- Discovery: arXiv queries (fetch_new_papers.py) -------------------------------
+# Each entry is an arXiv API query string (cat: + abs:/ti: operators).
+arxiv_queries:
+  - query: 'cat:cs.CL AND (abs:"text generation" OR abs:"language generation" OR abs:"language model")'
+    category: generation
+
+  - query: 'cat:cs.CL AND (abs:"writing assistant" OR abs:"writing tool" OR abs:"autocomplete")'
+    category: writing-assistants
+
+  - query: 'cat:cs.CL AND abs:"story generation"'
+    category: generation
+
+  - query: 'cat:cs.CL AND (abs:"summarization" OR abs:"paraphrase" OR abs:"rewriting")'
+    category: generation
+
+  - query: 'cat:cs.CL AND (abs:"human in the loop" OR abs:"human-ai collaboration" OR abs:"co-creative")'
+    category: human-ai
+
+  - query: 'cat:cs.CL AND abs:"controllable generation"'
+    category: control
+
+  - query: 'cat:cs.CL AND abs:"prompt engineering"'
+    category: large-language-models
+
+  - query: 'cat:cs.CL AND abs:"few-shot learning"'
+    category: large-language-models
+
+  - query: 'cat:cs.CL AND abs:"style transfer"'
+    category: control
+
+  - query: 'cat:cs.CL AND (abs:"factuality" OR abs:"hallucination")'
+    category: control
+
+  - query: 'cat:cs.CL AND (abs:"creative writing" OR abs:"poetry generation")'
+    category: generation
+
+  - query: 'cat:cs.CL AND (abs:"discourse" OR abs:"coherence" OR abs:"narrative")'
+    category: planning
+
+  - query: 'cat:cs.CL AND (abs:"grammar checking" OR abs:"style checking" OR abs:"spelling correction")'
+    category: writing-assistants
+
+  - query: 'cat:cs.CL AND abs:"outline generation"'
+    category: planning
+
+  - query: 'cat:cs.CL AND (abs:"academic writing" OR abs:"scholarly writing")'
+    category: applications
+
+  - query: 'cat:cs.CL AND abs:"business writing"'
+    category: applications
+
+  - query: 'cat:cs.CL AND (abs:"code generation" OR abs:"code completion")'
+    category: applications
+
+  - query: 'cat:cs.CL AND abs:"multimodal" AND abs:"text generation"'
+    category: applications
+
+  - query: 'cat:cs.CL AND abs:"LLM evaluation" OR abs:"language model evaluation"'
+    category: evaluation
+
+  - query: 'cat:cs.CL AND abs:"human evaluation" AND abs:"text generation"'
+    category: evaluation
+
+  - query: 'cat:cs.AI AND abs:"automated writing"'
+    category: large-language-models
+
+  - query: 'cat:cs.AI AND abs:"text generation"'
+    category: generation
+
+  - query: 'cat:cs.LG AND abs:"language model" AND abs:"generation"'
+    category: generation
+
+  - query: 'cat:cs.HC AND (abs:"writing assistance" OR abs:"writing tool" OR abs:"text entry")'
+    category: writing-assistants
+
+  - query: 'cat:cs.HC AND abs:"human-computer interaction" AND abs:"text"'
+    category: human-ai
+
+# --- Discovery: OpenAlex bulk queries (fetch_openalex_bulk.py) ---
+# Each entry defines one query phrase.
+openalex_queries:
+  - category: large-language-models
+    query: "LLM writing generation language model"
+
+  - category: generation
+    query: "neural text generation"
+
+  - category: writing-assistants
+    query: "writing assistant autocomplete"
+
+  - category: planning
+    query: "story planning outline generation"
+
+  - category: evaluation
+    query: "text generation evaluation metrics"
+
+  - category: human-ai
+    query: "human AI collaboration writing"
+
+  - category: control
+    query: "controllable text generation style"
+
+  - category: applications
+    query: "academic writing AI assistant"
+
+  - category: applications
+    query: "code generation programming language"
+
+  - category: survey
+    query: "text generation survey review"
+
+# --- Multi-source queries (fetch_other_sources.py) ---
+other_sources_queries:
+  - source: dblp
+    query: "neural text generation"
+    category: generation
+  - source: dblp
+    query: "writing assistant"
+    category: writing-assistants
+  - source: crossref
+    query: "LLM writing evaluation"
+    category: large-language-models
+  - source: crossref
+    query: "controllable text generation"
+    category: generation
+  - source: crossref
+    query: "human AI collaboration writing"
+    category: human-ai
+
+# --- Trend keywords for standard_stats.py ---
+trend_keywords:
+  - "llm"
+  - "language model"
+  - "text generation"
+  - "writing assistant"
+  - "autocomplete"
+  - "prompt engineering"
+  - "few-shot"
+  - "creative writing"
+  - "story generation"
+  - "human-ai"
+  - "controllable generation"
+  - "style transfer"
+  - "factuality"
+  - "coherence"
+  - "summarization"
+  - "paraphrase"
+  - "outline generation"
+  - "academic writing"
+  - "code generation"
+  - "multimodal"
+
+# --- Subclassification keywords (auto-classification rules) ---
+subcategory_keywords:
+  # LLMs for Writing
+  - id: llm-evaluation
+    keywords: ["llm evaluation", "language model evaluation", "generation quality"]
+
+  - id: prompt-engineering
+    keywords: ["prompt engineering", "prompt design", "prompt tuning"]
+
+  - id: few-shot
+    keywords: ["few-shot", "in-context learning", "zero-shot"]
+
+  # Text Generation
+  - id: neural-generation
+    keywords: ["neural generation", "autoregressive", "transformer generation"]
+
+  - id: controllable-generation
+    keywords: ["controllable generation", "controlled generation", "constrained generation"]
+
+  - id: creative-writing
+    keywords: ["creative writing", "poetry", "story generation", "fiction"]
+
+  - id: summarization
+    keywords: ["summarization", "text summarization", "abstractive summary"]
+
+  - id: rewriting
+    keywords: ["paraphrase", "rewriting", "style transfer", "text revision"]
+
+  # Writing Assistants
+  - id: autocomplete
+    keywords: ["autocomplete", "predictive text", "next word prediction"]
+
+  - id: grammar-checking
+    keywords: ["grammar", "spelling", "style checking", "proofreading"]
+
+  - id: interactive-assistant
+    keywords: ["interactive writing", "real-time writing", "collaborative writing"]
+
+  # Writing Planning
+  - id: outline-generation
+    keywords: ["outline", "planning", "story plan", "content plan"]
+
+  - id: discourse-structuring
+    keywords: ["discourse", "coherence", "cohesion", "structure"]
+
+  - id: narrative-arc
+    keywords: ["narrative arc", "story arc", "character development", "plot"]
+
+  # Human-AI Collaboration
+  - id: human-in-the-loop
+    keywords: ["human in the loop", "human-in-the-loop", "hITL"]
+
+  - id: editing-assistance
+    keywords: ["editing", "revision", "feedback", "draft improvement"]
+
+  - id: co-creative
+    keywords: ["co-creative", "collaborative writing", "ai partner"]
+
+  # Control & Personalization
+  - id: style-transfer
+    keywords: ["style transfer", "tone transfer", "voice transfer"]
+
+  - id: persona-control
+    keywords: ["persona", "character voice", "personality control"]
+
+  - id: factuality
+    keywords: ["factuality", "hallucination", "factual accuracy", "grounding"]
+
+  # Evaluation
+  - id: nlp-metrics
+    keywords: ["bleu", "rouge", "meteor", "bertscore", "nlg metric"]
+
+  - id: human-evaluation
+    keywords: ["human evaluation", "human judgment", "turk"]
+
+  - id: benchmark-datasets
+    keywords: ["benchmark", "dataset", "corpus", "evaluation dataset"]
+
+  # Writing Applications
+  - id: academic-writing
+    keywords: ["academic writing", "scholarly writing", "research paper"]
+
+  - id: business-writing
+    keywords: ["business writing", "professional writing", "report", "email"]
+
+  - id: code-as-text
+    keywords: ["code generation", "code completion", "programming", "code synthesis"]
+
+  - id: multimodal-writing
+    keywords: ["multimodal", "image caption", "vision-language"]
