@@ -3,133 +3,133 @@
   {
    "id": "applications",
    "name": "Writing Applications",
-   "count": 974,
+   "count": 1093,
    "trajectory": {
     "2023": 58,
     "2024": 339,
     "2025": 333,
-    "2026": 244
+    "2026": 363
    },
    "momentum": {
     "id": "applications",
     "name": "Applications",
-    "total": 974,
-    "recent": 361,
+    "total": 1093,
+    "recent": 480,
     "prior": 354,
-    "growth_pct": 2.0,
-    "recent_share": 0.371,
-    "papers_per_month": 30.1,
-    "score": 39.1
+    "growth_pct": 35.6,
+    "recent_share": 0.439,
+    "papers_per_month": 40.0,
+    "score": 79.5
    }
   },
   {
    "id": "control",
    "name": "Control & Personalization",
-   "count": 541,
+   "count": 597,
    "trajectory": {
     "2023": 35,
     "2024": 130,
     "2025": 222,
-    "2026": 154
+    "2026": 210
    },
    "momentum": {
     "id": "control",
     "name": "Control",
-    "total": 541,
-    "recent": 237,
+    "total": 597,
+    "recent": 293,
     "prior": 185,
-    "growth_pct": 28.1,
-    "recent_share": 0.438,
-    "papers_per_month": 19.8,
-    "score": 71.9
+    "growth_pct": 58.4,
+    "recent_share": 0.491,
+    "papers_per_month": 24.4,
+    "score": 107.5
    }
   },
   {
    "id": "evaluation",
    "name": "Evaluation & Quality",
-   "count": 608,
+   "count": 738,
    "trajectory": {
     "2023": 58,
     "2024": 285,
     "2025": 214,
-    "2026": 51
+    "2026": 181
    },
    "momentum": {
     "id": "evaluation",
     "name": "Evaluation",
-    "total": 608,
-    "recent": 92,
+    "total": 738,
+    "recent": 222,
     "prior": 274,
-    "growth_pct": -66.4,
-    "recent_share": 0.151,
-    "papers_per_month": 7.7,
-    "score": -51.3
+    "growth_pct": -19.0,
+    "recent_share": 0.301,
+    "papers_per_month": 18.5,
+    "score": 11.1
    }
   },
   {
    "id": "generation",
    "name": "Text Generation",
-   "count": 889,
+   "count": 1023,
    "trajectory": {
     "2023": 116,
     "2024": 356,
     "2025": 301,
-    "2026": 116
+    "2026": 250
    },
    "momentum": {
     "id": "generation",
     "name": "Generation",
-    "total": 889,
-    "recent": 197,
+    "total": 1023,
+    "recent": 331,
     "prior": 321,
-    "growth_pct": -38.6,
-    "recent_share": 0.222,
-    "papers_per_month": 16.4,
-    "score": -16.4
+    "growth_pct": 3.1,
+    "recent_share": 0.324,
+    "papers_per_month": 27.6,
+    "score": 35.5
    }
   },
   {
    "id": "human-ai",
    "name": "Human-AI Collaboration",
-   "count": 550,
+   "count": 604,
    "trajectory": {
     "2023": 18,
     "2024": 128,
     "2025": 201,
-    "2026": 203
+    "2026": 257
    },
    "momentum": {
     "id": "human-ai",
     "name": "Human Ai",
-    "total": 550,
-    "recent": 274,
+    "total": 604,
+    "recent": 328,
     "prior": 177,
-    "growth_pct": 54.8,
-    "recent_share": 0.498,
-    "papers_per_month": 22.8,
-    "score": 104.6
+    "growth_pct": 85.3,
+    "recent_share": 0.543,
+    "papers_per_month": 27.3,
+    "score": 139.6
    }
   },
   {
    "id": "large-language-models",
    "name": "LLMs for Writing",
-   "count": 995,
+   "count": 1052,
    "trajectory": {
     "2023": 89,
     "2024": 398,
     "2025": 367,
-    "2026": 141
+    "2026": 198
    },
    "momentum": {
     "id": "large-language-models",
     "name": "Large Language Models",
-    "total": 995,
-    "recent": 234,
+    "total": 1052,
+    "recent": 291,
     "prior": 388,
-    "growth_pct": -39.7,
-    "recent_share": 0.235,
-    "papers_per_month": 19.5,
-    "score": -16.2
+    "growth_pct": -25.0,
+    "recent_share": 0.277,
+    "papers_per_month": 24.2,
+    "score": 2.7
    }
   },
   {
@@ -157,23 +157,23 @@
   {
    "id": "survey",
    "name": "Surveys & Taxonomies",
-   "count": 439,
+   "count": 458,
    "trajectory": {
     "2023": 25,
     "2024": 97,
     "2025": 168,
-    "2026": 149
+    "2026": 168
    },
    "momentum": {
     "id": "survey",
     "name": "Survey",
-    "total": 439,
-    "recent": 208,
+    "total": 458,
+    "recent": 227,
     "prior": 142,
-    "growth_pct": 46.5,
-    "recent_share": 0.474,
-    "papers_per_month": 17.3,
-    "score": 93.9
+    "growth_pct": 59.9,
+    "recent_share": 0.496,
+    "papers_per_month": 18.9,
+    "score": 109.5
    }
   },
   {
@@ -203,7 +203,7 @@
   {
    "id": "academic-writing",
    "name": "Academic Writing",
-   "count": 93
+   "count": 95
   },
   {
    "id": "autocomplete",
@@ -213,12 +213,12 @@
   {
    "id": "benchmark-datasets",
    "name": "Benchmark Datasets",
-   "count": 558
+   "count": 627
   },
   {
    "id": "business-writing",
    "name": "Business Writing",
-   "count": 87
+   "count": 109
   },
   {
    "id": "co-creative",
@@ -228,52 +228,52 @@
   {
    "id": "code-as-text",
    "name": "Code Generation",
-   "count": 155
+   "count": 176
   },
   {
    "id": "controllable-generation",
    "name": "Controllable Generation",
-   "count": 104
+   "count": 107
   },
   {
    "id": "creative-writing",
    "name": "Creative Writing",
-   "count": 250
+   "count": 262
   },
   {
    "id": "discourse-structuring",
    "name": "Discourse Structure",
-   "count": 732
+   "count": 863
   },
   {
    "id": "editing-assistance",
    "name": "Editing Assistance",
-   "count": 297
+   "count": 331
   },
   {
    "id": "factuality",
    "name": "Factuality Control",
-   "count": 147
+   "count": 156
   },
   {
    "id": "few-shot",
    "name": "Few-shot Learning",
-   "count": 328
+   "count": 380
   },
   {
    "id": "grammar-checking",
    "name": "Grammar & Style Checking",
-   "count": 241
+   "count": 251
   },
   {
    "id": "human-evaluation",
    "name": "Human Evaluation",
-   "count": 71
+   "count": 73
   },
   {
    "id": "human-in-the-loop",
    "name": "Human-in-the-Loop",
-   "count": 4
+   "count": 6
   },
   {
    "id": "interactive-assistant",
@@ -283,52 +283,52 @@
   {
    "id": "llm-evaluation",
    "name": "LLM Evaluation",
-   "count": 1007
+   "count": 1090
   },
   {
    "id": "multimodal-writing",
    "name": "Multimodal Writing",
-   "count": 65
+   "count": 71
   },
   {
    "id": "narrative-arc",
    "name": "Narrative Arc",
-   "count": 11
+   "count": 16
   },
   {
    "id": "neural-generation",
    "name": "Neural Text Generation",
-   "count": 101
+   "count": 116
   },
   {
    "id": "nlp-metrics",
    "name": "NLP Metrics",
-   "count": 64
+   "count": 72
   },
   {
    "id": "outline-generation",
    "name": "Outline & Planning",
-   "count": 301
+   "count": 329
   },
   {
    "id": "persona-control",
    "name": "Persona Control",
-   "count": 129
+   "count": 138
   },
   {
    "id": "prompt-engineering",
    "name": "Prompt Engineering",
-   "count": 242
+   "count": 254
   },
   {
    "id": "rewriting",
    "name": "Text Rewriting",
-   "count": 166
+   "count": 183
   },
   {
    "id": "summarization",
    "name": "Summarization",
-   "count": 174
+   "count": 191
   }
  ],
  "timeline": [
@@ -26140,6 +26140,56 @@
   [
    "2026-07",
    "applications",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "business-writing"
+  ],
+  [
+   "2026-07",
+   "applications",
    "business-writing"
   ],
   [
@@ -26150,6 +26200,86 @@
   [
    "2026-07",
    "applications",
+   "business-writing"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "code-as-text"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "code-as-text"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "code-as-text"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "code-as-text"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "code-as-text"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "code-as-text"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "code-as-text"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "code-as-text"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "code-as-text"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "applications",
    "discourse-structuring"
   ],
   [
@@ -26186,6 +26316,186 @@
    "2026-07",
    "applications",
    "editing-assistance"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "editing-assistance"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "editing-assistance"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "editing-assistance"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "editing-assistance"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "few-shot"
   ],
   [
    "2026-07",
@@ -26230,12 +26540,52 @@
   [
    "2026-07",
    "applications",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "outline-generation"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "outline-generation"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "outline-generation"
+  ],
+  [
+   "2026-07",
+   "applications",
    "persona-control"
   ],
   [
    "2026-07",
    "applications",
    "persona-control"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "prompt-engineering"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "prompt-engineering"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "rewriting"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "rewriting"
   ],
   [
    "2026-07",
@@ -26245,17 +26595,82 @@
   [
    "2026-07",
    "control",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "control",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "control",
+   "business-writing"
+  ],
+  [
+   "2026-07",
+   "control",
    "controllable-generation"
   ],
   [
    "2026-07",
    "control",
+   "creative-writing"
+  ],
+  [
+   "2026-07",
+   "control",
    "discourse-structuring"
   ],
   [
    "2026-07",
    "control",
    "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "control",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "control",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "control",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "control",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "control",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "control",
+   "editing-assistance"
+  ],
+  [
+   "2026-07",
+   "control",
+   "editing-assistance"
+  ],
+  [
+   "2026-07",
+   "control",
+   "editing-assistance"
+  ],
+  [
+   "2026-07",
+   "control",
+   "editing-assistance"
   ],
   [
    "2026-07",
@@ -26280,6 +26695,21 @@
   [
    "2026-07",
    "control",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "control",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "control",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "control",
    "llm-evaluation"
   ],
   [
@@ -26291,11 +26721,41 @@
    "2026-07",
    "control",
    "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "control",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "control",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "control",
+   "neural-generation"
+  ],
+  [
+   "2026-07",
+   "control",
+   "outline-generation"
+  ],
+  [
+   "2026-07",
+   "control",
+   "outline-generation"
   ],
   [
    "2026-07",
    "control",
    "persona-control"
+  ],
+  [
+   "2026-07",
+   "control",
+   "rewriting"
   ],
   [
    "2026-07",
@@ -26325,7 +26785,387 @@
   [
    "2026-07",
    "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "business-writing"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "business-writing"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "business-writing"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "business-writing"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "business-writing"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "creative-writing"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "creative-writing"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "editing-assistance"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "editing-assistance"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "editing-assistance"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "grammar-checking"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "grammar-checking"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "human-in-the-loop"
+  ],
+  [
+   "2026-07",
+   "evaluation",
    "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "neural-generation"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "neural-generation"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "neural-generation"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "nlp-metrics"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "nlp-metrics"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "nlp-metrics"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "nlp-metrics"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "outline-generation"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "persona-control"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "persona-control"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "rewriting"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "rewriting"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "summarization"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "business-writing"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "business-writing"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "controllable-generation"
   ],
   [
    "2026-07",
@@ -26345,12 +27185,262 @@
   [
    "2026-07",
    "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "editing-assistance"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "editing-assistance"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "editing-assistance"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "factuality"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "grammar-checking"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "human-evaluation"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "multimodal-writing"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "multimodal-writing"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "narrative-arc"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "neural-generation"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "outline-generation"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "persona-control"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "prompt-engineering"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "prompt-engineering"
+  ],
+  [
+   "2026-07",
+   "generation",
    "rewriting"
   ],
   [
    "2026-07",
    "generation",
    "rewriting"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "rewriting"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "rewriting"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "rewriting"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "summarization"
+  ],
+  [
+   "2026-07",
+   "generation",
+   "summarization"
   ],
   [
    "2026-07",
@@ -26376,6 +27466,21 @@
    "2026-07",
    "human-ai",
    "academic-writing"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "academic-writing"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "business-writing"
   ],
   [
    "2026-07",
@@ -26440,6 +27545,76 @@
   [
    "2026-07",
    "human-ai",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "editing-assistance"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "editing-assistance"
+  ],
+  [
+   "2026-07",
+   "human-ai",
    "editing-assistance"
   ],
   [
@@ -26461,6 +27636,16 @@
    "2026-07",
    "human-ai",
    "factuality"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "grammar-checking"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "grammar-checking"
   ],
   [
    "2026-07",
@@ -26510,6 +27695,41 @@
   [
    "2026-07",
    "human-ai",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "narrative-arc"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "outline-generation"
+  ],
+  [
+   "2026-07",
+   "human-ai",
    "outline-generation"
   ],
   [
@@ -26519,8 +27739,78 @@
   ],
   [
    "2026-07",
+   "human-ai",
+   "persona-control"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "persona-control"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "summarization"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "summarization"
+  ],
+  [
+   "2026-07",
+   "human-ai",
+   "summarization"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
    "large-language-models",
    "business-writing"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "business-writing"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "business-writing"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "creative-writing"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "creative-writing"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "creative-writing"
   ],
   [
    "2026-07",
@@ -26540,17 +27830,102 @@
   [
    "2026-07",
    "large-language-models",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "editing-assistance"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
    "few-shot"
   ],
   [
    "2026-07",
    "large-language-models",
+   "few-shot"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "grammar-checking"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "human-in-the-loop"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
    "llm-evaluation"
   ],
   [
    "2026-07",
    "large-language-models",
    "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "multimodal-writing"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "outline-generation"
   ],
   [
    "2026-07",
@@ -26560,7 +27935,22 @@
   [
    "2026-07",
    "large-language-models",
+   "prompt-engineering"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
    "rewriting"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "rewriting"
+  ],
+  [
+   "2026-07",
+   "large-language-models",
+   "summarization"
   ],
   [
    "2026-07",
@@ -26600,6 +27990,36 @@
   [
    "2026-07",
    "survey",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "survey",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "survey",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "survey",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "survey",
+   "editing-assistance"
+  ],
+  [
+   "2026-07",
+   "survey",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "survey",
    "llm-evaluation"
   ],
   [
@@ -26621,6 +28041,16 @@
    "2026-07",
    "survey",
    "multimodal-writing"
+  ],
+  [
+   "2026-07",
+   "survey",
+   "neural-generation"
+  ],
+  [
+   "2026-07",
+   "survey",
+   "neural-generation"
   ],
   [
    "2026-07",
@@ -26650,6 +28080,126 @@
   [
    "2026-08",
    "applications",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "business-writing"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "code-as-text"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "code-as-text"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "code-as-text"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "code-as-text"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "code-as-text"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "code-as-text"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "code-as-text"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "code-as-text"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "applications",
    "discourse-structuring"
   ],
   [
@@ -26690,7 +28240,37 @@
   [
    "2026-08",
    "applications",
-   "grammar-checking"
+   "editing-assistance"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "editing-assistance"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "editing-assistance"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "editing-assistance"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "editing-assistance"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "few-shot"
   ],
   [
    "2026-08",
@@ -26711,6 +28291,21 @@
    "2026-08",
    "applications",
    "grammar-checking"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "grammar-checking"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "llm-evaluation"
   ],
   [
    "2026-08",
@@ -26735,10 +28330,60 @@
   [
    "2026-08",
    "applications",
+   "multimodal-writing"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "narrative-arc"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "nlp-metrics"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "outline-generation"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "outline-generation"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "outline-generation"
+  ],
+  [
+   "2026-08",
+   "applications",
    "persona-control"
   ],
   [
    "2026-08",
+   "applications",
+   "prompt-engineering"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "prompt-engineering"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "rewriting"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "summarization"
+  ],
+  [
+   "2026-08",
    "control",
    "benchmark-datasets"
   ],
@@ -26746,6 +28391,16 @@
    "2026-08",
    "control",
    "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "control",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "control",
+   "business-writing"
   ],
   [
    "2026-08",
@@ -26775,6 +28430,61 @@
   [
    "2026-08",
    "control",
+   "controllable-generation"
+  ],
+  [
+   "2026-08",
+   "control",
+   "creative-writing"
+  ],
+  [
+   "2026-08",
+   "control",
+   "creative-writing"
+  ],
+  [
+   "2026-08",
+   "control",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "control",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "control",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "control",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "control",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "control",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "control",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "control",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "control",
    "discourse-structuring"
   ],
   [
@@ -26810,6 +28520,41 @@
   [
    "2026-08",
    "control",
+   "few-shot"
+  ],
+  [
+   "2026-08",
+   "control",
+   "few-shot"
+  ],
+  [
+   "2026-08",
+   "control",
+   "few-shot"
+  ],
+  [
+   "2026-08",
+   "control",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "control",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "control",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "control",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "control",
    "llm-evaluation"
   ],
   [
@@ -26831,6 +28576,41 @@
    "2026-08",
    "control",
    "multimodal-writing"
+  ],
+  [
+   "2026-08",
+   "control",
+   "narrative-arc"
+  ],
+  [
+   "2026-08",
+   "control",
+   "narrative-arc"
+  ],
+  [
+   "2026-08",
+   "control",
+   "neural-generation"
+  ],
+  [
+   "2026-08",
+   "control",
+   "neural-generation"
+  ],
+  [
+   "2026-08",
+   "control",
+   "outline-generation"
+  ],
+  [
+   "2026-08",
+   "control",
+   "outline-generation"
+  ],
+  [
+   "2026-08",
+   "control",
+   "outline-generation"
   ],
   [
    "2026-08",
@@ -26845,6 +28625,21 @@
   [
    "2026-08",
    "control",
+   "prompt-engineering"
+  ],
+  [
+   "2026-08",
+   "control",
+   "rewriting"
+  ],
+  [
+   "2026-08",
+   "control",
+   "rewriting"
+  ],
+  [
+   "2026-08",
+   "control",
    "rewriting"
   ],
   [
@@ -26870,6 +28665,321 @@
   [
    "2026-08",
    "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "business-writing"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "business-writing"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "business-writing"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "business-writing"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "creative-writing"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "factuality"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "factuality"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "factuality"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "few-shot"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "few-shot"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "few-shot"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "few-shot"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "multimodal-writing"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "neural-generation"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "neural-generation"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "nlp-metrics"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "nlp-metrics"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "nlp-metrics"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "outline-generation"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "outline-generation"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "prompt-engineering"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "rewriting"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "summarization"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "summarization"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "summarization"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "summarization"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "summarization"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "generation",
    "benchmark-datasets"
   ],
   [
@@ -26880,12 +28990,22 @@
   [
    "2026-08",
    "generation",
+   "code-as-text"
+  ],
+  [
+   "2026-08",
+   "generation",
    "controllable-generation"
   ],
   [
    "2026-08",
    "generation",
    "controllable-generation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "creative-writing"
   ],
   [
    "2026-08",
@@ -26910,12 +29030,292 @@
   [
    "2026-08",
    "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "editing-assistance"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "editing-assistance"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "editing-assistance"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "factuality"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "factuality"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "factuality"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "grammar-checking"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "grammar-checking"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "human-evaluation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "multimodal-writing"
+  ],
+  [
+   "2026-08",
+   "generation",
    "neural-generation"
   ],
   [
    "2026-08",
    "generation",
    "neural-generation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "neural-generation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "neural-generation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "neural-generation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "outline-generation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "outline-generation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "outline-generation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "outline-generation"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "rewriting"
   ],
   [
    "2026-08",
@@ -26941,6 +29341,31 @@
    "2026-08",
    "generation",
    "summarization"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "summarization"
+  ],
+  [
+   "2026-08",
+   "generation",
+   "summarization"
+  ],
+  [
+   "2026-08",
+   "human-ai",
+   "academic-writing"
+  ],
+  [
+   "2026-08",
+   "human-ai",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "human-ai",
+   "benchmark-datasets"
   ],
   [
    "2026-08",
@@ -26990,12 +29415,77 @@
   [
    "2026-08",
    "human-ai",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "human-ai",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "human-ai",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "human-ai",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "human-ai",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "human-ai",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "human-ai",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "human-ai",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "human-ai",
    "editing-assistance"
   ],
   [
    "2026-08",
    "human-ai",
    "editing-assistance"
+  ],
+  [
+   "2026-08",
+   "human-ai",
+   "editing-assistance"
+  ],
+  [
+   "2026-08",
+   "human-ai",
+   "editing-assistance"
+  ],
+  [
+   "2026-08",
+   "human-ai",
+   "factuality"
+  ],
+  [
+   "2026-08",
+   "human-ai",
+   "grammar-checking"
+  ],
+  [
+   "2026-08",
+   "human-ai",
+   "grammar-checking"
   ],
   [
    "2026-08",
@@ -27030,7 +29520,42 @@
   [
    "2026-08",
    "human-ai",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "human-ai",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "human-ai",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "human-ai",
    "outline-generation"
+  ],
+  [
+   "2026-08",
+   "human-ai",
+   "outline-generation"
+  ],
+  [
+   "2026-08",
+   "human-ai",
+   "outline-generation"
+  ],
+  [
+   "2026-08",
+   "human-ai",
+   "persona-control"
+  ],
+  [
+   "2026-08",
+   "human-ai",
+   "prompt-engineering"
   ],
   [
    "2026-08",
@@ -27040,6 +29565,66 @@
   [
    "2026-08",
    "large-language-models",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "code-as-text"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "controllable-generation"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "creative-writing"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "creative-writing"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "editing-assistance"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
    "editing-assistance"
   ],
   [
@@ -27051,6 +29636,26 @@
    "2026-08",
    "large-language-models",
    "editing-assistance"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "editing-assistance"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "editing-assistance"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "editing-assistance"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "factuality"
   ],
   [
    "2026-08",
@@ -27090,7 +29695,62 @@
   [
    "2026-08",
    "large-language-models",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
    "outline-generation"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "outline-generation"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "outline-generation"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "outline-generation"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "persona-control"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "persona-control"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "persona-control"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "prompt-engineering"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "prompt-engineering"
+  ],
+  [
+   "2026-08",
+   "large-language-models",
+   "rewriting"
   ],
   [
    "2026-08",
@@ -27145,6 +29805,46 @@
   [
    "2026-08",
    "survey",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "survey",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "survey",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "survey",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "survey",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "survey",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "survey",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "survey",
+   "editing-assistance"
+  ],
+  [
+   "2026-08",
+   "survey",
    "editing-assistance"
   ],
   [
@@ -27170,7 +29870,17 @@
   [
    "2026-08",
    "survey",
+   "few-shot"
+  ],
+  [
+   "2026-08",
+   "survey",
    "human-evaluation"
+  ],
+  [
+   "2026-08",
+   "survey",
+   "llm-evaluation"
   ],
   [
    "2026-08",
@@ -27208,9 +29918,134 @@
    "summarization"
   ],
   [
+   "2026-08",
+   "survey",
+   "summarization"
+  ],
+  [
+   "2026-09",
+   "applications",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-09",
+   "applications",
+   "code-as-text"
+  ],
+  [
+   "2026-09",
+   "applications",
+   "code-as-text"
+  ],
+  [
+   "2026-09",
+   "applications",
+   "discourse-structuring"
+  ],
+  [
+   "2026-09",
+   "applications",
+   "outline-generation"
+  ],
+  [
+   "2026-09",
+   "applications",
+   "outline-generation"
+  ],
+  [
+   "2026-09",
+   "control",
+   "business-writing"
+  ],
+  [
+   "2026-09",
+   "control",
+   "business-writing"
+  ],
+  [
+   "2026-09",
+   "control",
+   "discourse-structuring"
+  ],
+  [
    "2026-09",
    "control",
    "editing-assistance"
+  ],
+  [
+   "2026-09",
+   "control",
+   "neural-generation"
+  ],
+  [
+   "2026-09",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-09",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-09",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-09",
+   "evaluation",
+   "editing-assistance"
+  ],
+  [
+   "2026-09",
+   "evaluation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-09",
+   "evaluation",
+   "rewriting"
+  ],
+  [
+   "2026-09",
+   "evaluation",
+   "summarization"
+  ],
+  [
+   "2026-09",
+   "generation",
+   "business-writing"
+  ],
+  [
+   "2026-09",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-09",
+   "generation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-09",
+   "generation",
+   "few-shot"
+  ],
+  [
+   "2026-09",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-09",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-09",
+   "generation",
+   "llm-evaluation"
   ],
   [
    "2026-09",
@@ -27221,6 +30056,16 @@
    "2026-09",
    "generation",
    "rewriting"
+  ],
+  [
+   "2026-09",
+   "generation",
+   "rewriting"
+  ],
+  [
+   "2026-09",
+   "large-language-models",
+   "discourse-structuring"
   ],
   [
    "2026-09",
@@ -27241,15 +30086,15 @@
  "venues": [
   {
    "name": "arXiv (Cornell University)",
-   "papers": 539
+   "papers": 668
   },
   {
    "name": "Zenodo (CERN European Organization for Nuclear Research)",
-   "papers": 140
+   "papers": 313
   },
   {
    "name": "Lecture notes in computer science",
-   "papers": 87
+   "papers": 105
   },
   {
    "name": "SSRN Electronic Journal",
@@ -27265,39 +30110,39 @@
   },
   {
    "name": "Scientific Reports",
-   "papers": 33
-  },
-  {
-   "name": "ACM Transactions on Software Engineering and Methodology",
-   "papers": 26
+   "papers": 40
   },
   {
    "name": "Research Square",
-   "papers": 22
+   "papers": 29
   },
   {
-   "name": "Preprints.org",
-   "papers": 21
+   "name": "ACM Transactions on Software Engineering and Methodology",
+   "papers": 29
   },
   {
    "name": "Communications in computer and information science",
-   "papers": 19
+   "papers": 24
+  },
+  {
+   "name": "Preprints.org",
+   "papers": 23
+  },
+  {
+   "name": "Figshare",
+   "papers": 21
+  },
+  {
+   "name": "Expert Systems with Applications",
+   "papers": 17
+  },
+  {
+   "name": "Frontiers in Education",
+   "papers": 16
   },
   {
    "name": "IEEE Transactions on Software Engineering",
    "papers": 16
-  },
-  {
-   "name": "Expert Systems with Applications",
-   "papers": 15
-  },
-  {
-   "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-   "papers": 15
-  },
-  {
-   "name": "Frontiers in Education",
-   "papers": 14
   }
  ],
  "keyword_bursts": [
@@ -27305,106 +30150,106 @@
    "keyword": "autocomplete",
    "recent": 9,
    "total": 14,
-   "burst_score": 1.98,
-   "recent_share": 0.0052
+   "burst_score": 1.65,
+   "recent_share": 0.0039
   },
   {
    "keyword": "writing assistant",
-   "recent": 142,
-   "total": 237,
-   "burst_score": 1.85,
-   "recent_share": 0.0814
-  },
-  {
-   "keyword": "academic writing",
-   "recent": 190,
-   "total": 356,
-   "burst_score": 1.65,
-   "recent_share": 0.1089
+   "recent": 143,
+   "total": 238,
+   "burst_score": 1.54,
+   "recent_share": 0.0618
   },
   {
    "keyword": "human-ai",
-   "recent": 130,
-   "total": 244,
-   "burst_score": 1.64,
-   "recent_share": 0.0745
+   "recent": 147,
+   "total": 261,
+   "burst_score": 1.45,
+   "recent_share": 0.0635
+  },
+  {
+   "keyword": "academic writing",
+   "recent": 204,
+   "total": 370,
+   "burst_score": 1.42,
+   "recent_share": 0.0882
   },
   {
    "keyword": "controllable generation",
-   "recent": 42,
-   "total": 82,
-   "burst_score": 1.58,
-   "recent_share": 0.0241
-  },
-  {
-   "keyword": "creative writing",
-   "recent": 77,
-   "total": 156,
-   "burst_score": 1.52,
-   "recent_share": 0.0441
-  },
-  {
-   "keyword": "coherence",
-   "recent": 130,
-   "total": 288,
-   "burst_score": 1.39,
-   "recent_share": 0.0745
+   "recent": 44,
+   "total": 84,
+   "burst_score": 1.35,
+   "recent_share": 0.019
   },
   {
    "keyword": "multimodal",
-   "recent": 181,
-   "total": 417,
-   "burst_score": 1.34,
-   "recent_share": 0.1037
+   "recent": 241,
+   "total": 477,
+   "burst_score": 1.3,
+   "recent_share": 0.1041
+  },
+  {
+   "keyword": "coherence",
+   "recent": 161,
+   "total": 319,
+   "burst_score": 1.3,
+   "recent_share": 0.0696
+  },
+  {
+   "keyword": "creative writing",
+   "recent": 80,
+   "total": 159,
+   "burst_score": 1.29,
+   "recent_share": 0.0346
+  },
+  {
+   "keyword": "paraphrase",
+   "recent": 15,
+   "total": 38,
+   "burst_score": 1.01,
+   "recent_share": 0.0065
   },
   {
    "keyword": "story generation",
-   "recent": 14,
-   "total": 42,
-   "burst_score": 1.03,
-   "recent_share": 0.008
+   "recent": 16,
+   "total": 44,
+   "burst_score": 0.94,
+   "recent_share": 0.0069
+  },
+  {
+   "keyword": "llm",
+   "recent": 775,
+   "total": 2327,
+   "burst_score": 0.86,
+   "recent_share": 0.3349
   },
   {
    "keyword": "outline generation",
    "recent": 3,
    "total": 9,
-   "burst_score": 1.03,
-   "recent_share": 0.0017
-  },
-  {
-   "keyword": "style transfer",
-   "recent": 48,
-   "total": 169,
-   "burst_score": 0.88,
-   "recent_share": 0.0275
-  },
-  {
-   "keyword": "paraphrase",
-   "recent": 9,
-   "total": 32,
-   "burst_score": 0.87,
-   "recent_share": 0.0052
-  },
-  {
-   "keyword": "llm",
-   "recent": 579,
-   "total": 2131,
-   "burst_score": 0.84,
-   "recent_share": 0.3318
-  },
-  {
-   "keyword": "factuality",
-   "recent": 21,
-   "total": 80,
-   "burst_score": 0.81,
-   "recent_share": 0.012
+   "burst_score": 0.86,
+   "recent_share": 0.0013
   },
   {
    "keyword": "language model",
-   "recent": 676,
-   "total": 2616,
+   "recent": 908,
+   "total": 2848,
+   "burst_score": 0.82,
+   "recent_share": 0.3924
+  },
+  {
+   "keyword": "style transfer",
+   "recent": 55,
+   "total": 176,
    "burst_score": 0.8,
-   "recent_share": 0.3874
+   "recent_share": 0.0238
+  },
+  {
+   "keyword": "code generation",
+   "recent": 182,
+   "total": 603,
+   "burst_score": 0.78,
+   "recent_share": 0.0787
   }
  ]
 }
