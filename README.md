@@ -19,20 +19,20 @@ This corpus covers AI systems for:
 
 ## 📊 Corpus Statistics
 
-**5950 papers** across **9 categories**.  
-Sources: **arXiv** 2276 (38%).  
+**5996 papers** across **9 categories**.  
+Sources: **arXiv** 2285 (38%).  
 
 ### Top categories
 
 | Category | Papers | Recent | |
 |----------|--------|--------|-|
-| applications | **1093** | 480 | ████████████ |
-| large-language-models | **1052** | 291 | ████████████ |
-| generation | **1023** | 331 | ███████████░ |
-| evaluation | **738** | 222 | ████████░░░░ |
-| human-ai | **604** | 328 | ███████░░░░░ |
-| control | **597** | 293 | ███████░░░░░ |
-| survey | **458** | 227 | █████░░░░░░░ |
+| applications | **1108** | 495 | ████████████ |
+| large-language-models | **1057** | 296 | ███████████░ |
+| generation | **1030** | 338 | ███████████░ |
+| evaluation | **753** | 237 | ████████░░░░ |
+| human-ai | **605** | 329 | ███████░░░░░ |
+| control | **598** | 294 | ██████░░░░░░ |
+| survey | **460** | 229 | █████░░░░░░░ |
 | planning | **317** | 121 | ███░░░░░░░░░ |
 | writing-assistants | **68** | 21 | █░░░░░░░░░░░ |
 
@@ -43,49 +43,49 @@ Sources: **arXiv** 2276 (38%).
 | 2023 | 425 | ███░░░░░░░░░ |
 | 2024 | 1851 | ███████████░ |
 | 2025 | 1956 | ████████████ |
-| 2026 | 1718 | ███████████░ |
+| 2026 | 1764 | ███████████░ |
 
 ### Momentum (hottest categories)
 
 | Category | Total | Rate | Recent | Score |
 |----------|-------|------|--------|-------|
-| Human Ai | 604 | 27.3/mo | 54% | 140 |
-| Survey | 458 | 18.9/mo | 50% | 110 |
-| Control | 597 | 24.4/mo | 49% | 108 |
-| Applications | 1093 | 40.0/mo | 44% | 80 |
+| Human Ai | 605 | 27.4/mo | 54% | 140 |
+| Survey | 460 | 19.1/mo | 50% | 111 |
+| Control | 598 | 24.5/mo | 49% | 108 |
+| Applications | 1108 | 41.2/mo | 45% | 84 |
 | Planning | 317 | 10.1/mo | 38% | 47 |
-| Generation | 1023 | 27.6/mo | 32% | 36 |
-| Evaluation | 738 | 18.5/mo | 30% | 11 |
-| Large Language Models | 1052 | 24.2/mo | 28% | 3 |
+| Generation | 1030 | 28.2/mo | 33% | 38 |
+| Evaluation | 753 | 19.8/mo | 32% | 18 |
+| Large Language Models | 1057 | 24.7/mo | 28% | 4 |
 | Writing Assistants | 68 | 1.8/mo | 31% | 1 |
 
 ### Trending keywords
 
 | Keyword | Papers | Burst |
 |---------|--------|-------|
-| autocomplete | 9 | 1.65 |
-| writing assistant | 143 | 1.54 |
-| human-ai | 147 | 1.45 |
-| academic writing | 204 | 1.42 |
-| controllable generation | 44 | 1.35 |
-| multimodal | 241 | 1.3 |
-| coherence | 161 | 1.3 |
-| creative writing | 80 | 1.29 |
+| autocomplete | 9 | 1.63 |
+| writing assistant | 145 | 1.53 |
+| human-ai | 147 | 1.43 |
+| academic writing | 204 | 1.4 |
+| controllable generation | 44 | 1.33 |
+| multimodal | 245 | 1.29 |
+| coherence | 161 | 1.28 |
+| creative writing | 80 | 1.28 |
 
 ### Top venues
 
 | Venue | Papers |
 |-------|--------|
-| arXiv (Cornell University) | 668 |
-| Zenodo (CERN European Organization for Nuclear Research) | 313 |
+| arXiv (Cornell University) | 676 |
+| Zenodo (CERN European Organization for Nuclear Research) | 326 |
 | Lecture notes in computer science | 105 |
 | SSRN Electronic Journal | 69 |
 | IEEE Access | 50 |
 | Proceedings of the AAAI Conference on Artificial Intelligence | 43 |
 | Scientific Reports | 40 |
-| Research Square | 29 |
+| Research Square | 30 |
 | ACM Transactions on Software Engineering and Methodology | 29 |
-| Communications in computer and information science | 24 |
+| Preprints.org | 24 |
 
 ### Research gaps (thinnest cells)
 

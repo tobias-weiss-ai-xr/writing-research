@@ -3,133 +3,133 @@
   {
    "id": "applications",
    "name": "Writing Applications",
-   "count": 1093,
+   "count": 1108,
    "trajectory": {
     "2023": 58,
     "2024": 339,
     "2025": 333,
-    "2026": 363
+    "2026": 378
    },
    "momentum": {
     "id": "applications",
     "name": "Applications",
-    "total": 1093,
-    "recent": 480,
+    "total": 1108,
+    "recent": 495,
     "prior": 354,
-    "growth_pct": 35.6,
-    "recent_share": 0.439,
-    "papers_per_month": 40.0,
-    "score": 79.5
+    "growth_pct": 39.8,
+    "recent_share": 0.447,
+    "papers_per_month": 41.2,
+    "score": 84.5
    }
   },
   {
    "id": "control",
    "name": "Control & Personalization",
-   "count": 597,
+   "count": 598,
    "trajectory": {
     "2023": 35,
     "2024": 130,
     "2025": 222,
-    "2026": 210
+    "2026": 211
    },
    "momentum": {
     "id": "control",
     "name": "Control",
-    "total": 597,
-    "recent": 293,
+    "total": 598,
+    "recent": 294,
     "prior": 185,
-    "growth_pct": 58.4,
-    "recent_share": 0.491,
-    "papers_per_month": 24.4,
-    "score": 107.5
+    "growth_pct": 58.9,
+    "recent_share": 0.492,
+    "papers_per_month": 24.5,
+    "score": 108.1
    }
   },
   {
    "id": "evaluation",
    "name": "Evaluation & Quality",
-   "count": 738,
+   "count": 753,
    "trajectory": {
     "2023": 58,
     "2024": 285,
     "2025": 214,
-    "2026": 181
+    "2026": 196
    },
    "momentum": {
     "id": "evaluation",
     "name": "Evaluation",
-    "total": 738,
-    "recent": 222,
+    "total": 753,
+    "recent": 237,
     "prior": 274,
-    "growth_pct": -19.0,
-    "recent_share": 0.301,
-    "papers_per_month": 18.5,
-    "score": 11.1
+    "growth_pct": -13.5,
+    "recent_share": 0.315,
+    "papers_per_month": 19.8,
+    "score": 18.0
    }
   },
   {
    "id": "generation",
    "name": "Text Generation",
-   "count": 1023,
+   "count": 1030,
    "trajectory": {
     "2023": 116,
     "2024": 356,
     "2025": 301,
-    "2026": 250
+    "2026": 257
    },
    "momentum": {
     "id": "generation",
     "name": "Generation",
-    "total": 1023,
-    "recent": 331,
+    "total": 1030,
+    "recent": 338,
     "prior": 321,
-    "growth_pct": 3.1,
-    "recent_share": 0.324,
-    "papers_per_month": 27.6,
-    "score": 35.5
+    "growth_pct": 5.3,
+    "recent_share": 0.328,
+    "papers_per_month": 28.2,
+    "score": 38.1
    }
   },
   {
    "id": "human-ai",
    "name": "Human-AI Collaboration",
-   "count": 604,
+   "count": 605,
    "trajectory": {
     "2023": 18,
     "2024": 128,
     "2025": 201,
-    "2026": 257
+    "2026": 258
    },
    "momentum": {
     "id": "human-ai",
     "name": "Human Ai",
-    "total": 604,
-    "recent": 328,
+    "total": 605,
+    "recent": 329,
     "prior": 177,
-    "growth_pct": 85.3,
-    "recent_share": 0.543,
-    "papers_per_month": 27.3,
-    "score": 139.6
+    "growth_pct": 85.9,
+    "recent_share": 0.544,
+    "papers_per_month": 27.4,
+    "score": 140.3
    }
   },
   {
    "id": "large-language-models",
    "name": "LLMs for Writing",
-   "count": 1052,
+   "count": 1057,
    "trajectory": {
     "2023": 89,
     "2024": 398,
     "2025": 367,
-    "2026": 198
+    "2026": 203
    },
    "momentum": {
     "id": "large-language-models",
     "name": "Large Language Models",
-    "total": 1052,
-    "recent": 291,
+    "total": 1057,
+    "recent": 296,
     "prior": 388,
-    "growth_pct": -25.0,
-    "recent_share": 0.277,
-    "papers_per_month": 24.2,
-    "score": 2.7
+    "growth_pct": -23.7,
+    "recent_share": 0.28,
+    "papers_per_month": 24.7,
+    "score": 4.3
    }
   },
   {
@@ -157,23 +157,23 @@
   {
    "id": "survey",
    "name": "Surveys & Taxonomies",
-   "count": 458,
+   "count": 460,
    "trajectory": {
     "2023": 25,
     "2024": 97,
     "2025": 168,
-    "2026": 168
+    "2026": 170
    },
    "momentum": {
     "id": "survey",
     "name": "Survey",
-    "total": 458,
-    "recent": 227,
+    "total": 460,
+    "recent": 229,
     "prior": 142,
-    "growth_pct": 59.9,
-    "recent_share": 0.496,
-    "papers_per_month": 18.9,
-    "score": 109.5
+    "growth_pct": 61.3,
+    "recent_share": 0.498,
+    "papers_per_month": 19.1,
+    "score": 111.1
    }
   },
   {
@@ -213,22 +213,22 @@
   {
    "id": "benchmark-datasets",
    "name": "Benchmark Datasets",
-   "count": 627
+   "count": 630
   },
   {
    "id": "business-writing",
    "name": "Business Writing",
-   "count": 109
+   "count": 110
   },
   {
    "id": "co-creative",
    "name": "Co-creative Writing",
-   "count": 8
+   "count": 9
   },
   {
    "id": "code-as-text",
    "name": "Code Generation",
-   "count": 176
+   "count": 179
   },
   {
    "id": "controllable-generation",
@@ -243,32 +243,32 @@
   {
    "id": "discourse-structuring",
    "name": "Discourse Structure",
-   "count": 863
+   "count": 870
   },
   {
    "id": "editing-assistance",
    "name": "Editing Assistance",
-   "count": 331
+   "count": 334
   },
   {
    "id": "factuality",
    "name": "Factuality Control",
-   "count": 156
+   "count": 157
   },
   {
    "id": "few-shot",
    "name": "Few-shot Learning",
-   "count": 380
+   "count": 383
   },
   {
    "id": "grammar-checking",
    "name": "Grammar & Style Checking",
-   "count": 251
+   "count": 254
   },
   {
    "id": "human-evaluation",
    "name": "Human Evaluation",
-   "count": 73
+   "count": 74
   },
   {
    "id": "human-in-the-loop",
@@ -283,7 +283,7 @@
   {
    "id": "llm-evaluation",
    "name": "LLM Evaluation",
-   "count": 1090
+   "count": 1099
   },
   {
    "id": "multimodal-writing",
@@ -298,22 +298,22 @@
   {
    "id": "neural-generation",
    "name": "Neural Text Generation",
-   "count": 116
+   "count": 118
   },
   {
    "id": "nlp-metrics",
    "name": "NLP Metrics",
-   "count": 72
+   "count": 75
   },
   {
    "id": "outline-generation",
    "name": "Outline & Planning",
-   "count": 329
+   "count": 331
   },
   {
    "id": "persona-control",
    "name": "Persona Control",
-   "count": 138
+   "count": 140
   },
   {
    "id": "prompt-engineering",
@@ -328,7 +328,7 @@
   {
    "id": "summarization",
    "name": "Summarization",
-   "count": 191
+   "count": 193
   }
  ],
  "timeline": [
@@ -26545,6 +26545,11 @@
   [
    "2026-07",
    "applications",
+   "llm-evaluation"
+  ],
+  [
+   "2026-07",
+   "applications",
    "outline-generation"
   ],
   [
@@ -26586,6 +26591,11 @@
    "2026-07",
    "applications",
    "rewriting"
+  ],
+  [
+   "2026-07",
+   "applications",
+   "summarization"
   ],
   [
    "2026-07",
@@ -26840,6 +26850,11 @@
   [
    "2026-07",
    "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-07",
+   "evaluation",
    "business-writing"
   ],
   [
@@ -26961,6 +26976,16 @@
    "2026-07",
    "evaluation",
    "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "editing-assistance"
   ],
   [
    "2026-07",
@@ -27006,6 +27031,11 @@
    "2026-07",
    "evaluation",
    "human-in-the-loop"
+  ],
+  [
+   "2026-07",
+   "evaluation",
+   "llm-evaluation"
   ],
   [
    "2026-07",
@@ -28265,7 +28295,7 @@
   [
    "2026-08",
    "applications",
-   "few-shot"
+   "editing-assistance"
   ],
   [
    "2026-08",
@@ -28275,7 +28305,7 @@
   [
    "2026-08",
    "applications",
-   "grammar-checking"
+   "few-shot"
   ],
   [
    "2026-08",
@@ -28296,6 +28326,16 @@
    "2026-08",
    "applications",
    "grammar-checking"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "grammar-checking"
+  ],
+  [
+   "2026-08",
+   "applications",
+   "llm-evaluation"
   ],
   [
    "2026-08",
@@ -28825,6 +28865,16 @@
   [
    "2026-08",
    "evaluation",
+   "few-shot"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-08",
+   "evaluation",
    "llm-evaluation"
   ],
   [
@@ -28921,6 +28971,11 @@
    "2026-08",
    "evaluation",
    "rewriting"
+  ],
+  [
+   "2026-08",
+   "evaluation",
+   "summarization"
   ],
   [
    "2026-08",
@@ -29455,6 +29510,11 @@
   [
    "2026-08",
    "human-ai",
+   "discourse-structuring"
+  ],
+  [
+   "2026-08",
+   "human-ai",
    "editing-assistance"
   ],
   [
@@ -29940,17 +30000,77 @@
   [
    "2026-09",
    "applications",
+   "code-as-text"
+  ],
+  [
+   "2026-09",
+   "applications",
+   "code-as-text"
+  ],
+  [
+   "2026-09",
+   "applications",
+   "code-as-text"
+  ],
+  [
+   "2026-09",
+   "applications",
    "discourse-structuring"
   ],
   [
    "2026-09",
    "applications",
+   "discourse-structuring"
+  ],
+  [
+   "2026-09",
+   "applications",
+   "discourse-structuring"
+  ],
+  [
+   "2026-09",
+   "applications",
+   "factuality"
+  ],
+  [
+   "2026-09",
+   "applications",
+   "few-shot"
+  ],
+  [
+   "2026-09",
+   "applications",
+   "grammar-checking"
+  ],
+  [
+   "2026-09",
+   "applications",
+   "grammar-checking"
+  ],
+  [
+   "2026-09",
+   "applications",
+   "llm-evaluation"
+  ],
+  [
+   "2026-09",
+   "applications",
    "outline-generation"
   ],
   [
    "2026-09",
    "applications",
    "outline-generation"
+  ],
+  [
+   "2026-09",
+   "applications",
+   "outline-generation"
+  ],
+  [
+   "2026-09",
+   "control",
+   "business-writing"
   ],
   [
    "2026-09",
@@ -29980,6 +30100,21 @@
   [
    "2026-09",
    "evaluation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-09",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-09",
+   "evaluation",
+   "discourse-structuring"
+  ],
+  [
+   "2026-09",
+   "evaluation",
    "discourse-structuring"
   ],
   [
@@ -30000,7 +30135,32 @@
   [
    "2026-09",
    "evaluation",
+   "human-evaluation"
+  ],
+  [
+   "2026-09",
+   "evaluation",
    "llm-evaluation"
+  ],
+  [
+   "2026-09",
+   "evaluation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-09",
+   "evaluation",
+   "neural-generation"
+  ],
+  [
+   "2026-09",
+   "evaluation",
+   "nlp-metrics"
+  ],
+  [
+   "2026-09",
+   "evaluation",
+   "nlp-metrics"
   ],
   [
    "2026-09",
@@ -30015,7 +30175,22 @@
   [
    "2026-09",
    "generation",
+   "benchmark-datasets"
+  ],
+  [
+   "2026-09",
+   "generation",
    "business-writing"
+  ],
+  [
+   "2026-09",
+   "generation",
+   "co-creative"
+  ],
+  [
+   "2026-09",
+   "generation",
+   "discourse-structuring"
   ],
   [
    "2026-09",
@@ -30050,7 +30225,27 @@
   [
    "2026-09",
    "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-09",
+   "generation",
+   "llm-evaluation"
+  ],
+  [
+   "2026-09",
+   "generation",
    "neural-generation"
+  ],
+  [
+   "2026-09",
+   "generation",
+   "outline-generation"
+  ],
+  [
+   "2026-09",
+   "generation",
+   "persona-control"
   ],
   [
    "2026-09",
@@ -30066,6 +30261,16 @@
    "2026-09",
    "large-language-models",
    "discourse-structuring"
+  ],
+  [
+   "2026-09",
+   "large-language-models",
+   "editing-assistance"
+  ],
+  [
+   "2026-09",
+   "large-language-models",
+   "few-shot"
   ],
   [
    "2026-09",
@@ -30074,8 +30279,33 @@
   ],
   [
    "2026-09",
+   "large-language-models",
+   "llm-evaluation"
+  ],
+  [
+   "2026-09",
+   "large-language-models",
+   "neural-generation"
+  ],
+  [
+   "2026-09",
+   "large-language-models",
+   "nlp-metrics"
+  ],
+  [
+   "2026-09",
    "planning",
    "discourse-structuring"
+  ],
+  [
+   "2026-09",
+   "survey",
+   "grammar-checking"
+  ],
+  [
+   "2026-09",
+   "survey",
+   "persona-control"
   ],
   [
    "2026-09",
@@ -30086,11 +30316,11 @@
  "venues": [
   {
    "name": "arXiv (Cornell University)",
-   "papers": 668
+   "papers": 676
   },
   {
    "name": "Zenodo (CERN European Organization for Nuclear Research)",
-   "papers": 313
+   "papers": 326
   },
   {
    "name": "Lecture notes in computer science",
@@ -30114,19 +30344,19 @@
   },
   {
    "name": "Research Square",
-   "papers": 29
+   "papers": 30
   },
   {
    "name": "ACM Transactions on Software Engineering and Methodology",
    "papers": 29
   },
   {
-   "name": "Communications in computer and information science",
+   "name": "Preprints.org",
    "papers": 24
   },
   {
-   "name": "Preprints.org",
-   "papers": 23
+   "name": "Communications in computer and information science",
+   "papers": 24
   },
   {
    "name": "Figshare",
@@ -30141,7 +30371,7 @@
    "papers": 16
   },
   {
-   "name": "IEEE Transactions on Software Engineering",
+   "name": "Electronics",
    "papers": 16
   }
  ],
@@ -30150,106 +30380,106 @@
    "keyword": "autocomplete",
    "recent": 9,
    "total": 14,
-   "burst_score": 1.65,
-   "recent_share": 0.0039
+   "burst_score": 1.63,
+   "recent_share": 0.0038
   },
   {
    "keyword": "writing assistant",
-   "recent": 143,
-   "total": 238,
-   "burst_score": 1.54,
-   "recent_share": 0.0618
+   "recent": 145,
+   "total": 240,
+   "burst_score": 1.53,
+   "recent_share": 0.0614
   },
   {
    "keyword": "human-ai",
    "recent": 147,
    "total": 261,
-   "burst_score": 1.45,
-   "recent_share": 0.0635
+   "burst_score": 1.43,
+   "recent_share": 0.0623
   },
   {
    "keyword": "academic writing",
    "recent": 204,
    "total": 370,
-   "burst_score": 1.42,
-   "recent_share": 0.0882
+   "burst_score": 1.4,
+   "recent_share": 0.0864
   },
   {
    "keyword": "controllable generation",
    "recent": 44,
    "total": 84,
-   "burst_score": 1.35,
-   "recent_share": 0.019
+   "burst_score": 1.33,
+   "recent_share": 0.0186
   },
   {
    "keyword": "multimodal",
-   "recent": 241,
-   "total": 477,
-   "burst_score": 1.3,
-   "recent_share": 0.1041
+   "recent": 245,
+   "total": 481,
+   "burst_score": 1.29,
+   "recent_share": 0.1038
   },
   {
    "keyword": "coherence",
    "recent": 161,
    "total": 319,
-   "burst_score": 1.3,
-   "recent_share": 0.0696
+   "burst_score": 1.28,
+   "recent_share": 0.0682
   },
   {
    "keyword": "creative writing",
    "recent": 80,
    "total": 159,
-   "burst_score": 1.29,
-   "recent_share": 0.0346
+   "burst_score": 1.28,
+   "recent_share": 0.0339
   },
   {
    "keyword": "paraphrase",
    "recent": 15,
    "total": 38,
-   "burst_score": 1.01,
-   "recent_share": 0.0065
+   "burst_score": 1.0,
+   "recent_share": 0.0064
   },
   {
    "keyword": "story generation",
    "recent": 16,
    "total": 44,
-   "burst_score": 0.94,
-   "recent_share": 0.0069
+   "burst_score": 0.92,
+   "recent_share": 0.0068
   },
   {
    "keyword": "llm",
-   "recent": 775,
-   "total": 2327,
+   "recent": 789,
+   "total": 2341,
    "burst_score": 0.86,
-   "recent_share": 0.3349
+   "recent_share": 0.3343
   },
   {
    "keyword": "outline generation",
    "recent": 3,
    "total": 9,
-   "burst_score": 0.86,
+   "burst_score": 0.85,
    "recent_share": 0.0013
   },
   {
    "keyword": "language model",
-   "recent": 908,
-   "total": 2848,
+   "recent": 926,
+   "total": 2866,
    "burst_score": 0.82,
    "recent_share": 0.3924
+  },
+  {
+   "keyword": "code generation",
+   "recent": 189,
+   "total": 610,
+   "burst_score": 0.79,
+   "recent_share": 0.0801
   },
   {
    "keyword": "style transfer",
    "recent": 55,
    "total": 176,
-   "burst_score": 0.8,
-   "recent_share": 0.0238
-  },
-  {
-   "keyword": "code generation",
-   "recent": 182,
-   "total": 603,
-   "burst_score": 0.78,
-   "recent_share": 0.0787
+   "burst_score": 0.79,
+   "recent_share": 0.0233
   }
  ]
 }
